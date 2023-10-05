@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class MonsterPath : MonoBehaviour
 {
-    public Transform[] point;
+    public Transform[] points;
 }
